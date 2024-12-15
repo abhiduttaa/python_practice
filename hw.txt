@@ -1,0 +1,19 @@
+3. Write a python program to find the roots of a quadratic equation.
+
+4. Write a program to find whether the given number is odd or even and positive or negative.
+
+5. Write a program to calculate bonuses for employees based on grade and basic pay. (Given
+
+name, grade, basic pay, dearness allowance, HRA, CCA, conveyance, etc.)
+
+6. Write a program to display the day's name, given the date of a specific month. In python programming
+
+Write logical expressions for the fouorting:
+
+A. Either A is greater than B or A is less than C.
+
+B. The favourite city is either Mumbai or chennal
+
+C. Either the place is Bengaluru or chennai and not Hyderabad
+
+D. Mark is either greater than 60 but not less than 90.m
